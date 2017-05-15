@@ -1,0 +1,33 @@
+{
+ "Apps":[
+          {
+           "BarUrl":"__/app-myboard.bar"
+          ,"SchemaUrl":"https://demo.personium.io/app-myboard/"
+          ,"BoxName":"io_personium_demo_app-myboard"
+          }
+         ,{"BarUrl":"__/hn-app-genki.bar"
+          ,"SchemaUrl":"https://demo.personium.io/hn-app-genki/"
+          ,"BoxName":"io_personium_demo_hn-app-genki"
+          }
+         ,{"BarUrl":"__/hn-ll-user-app.bar"
+          ,"SchemaUrl":"https://demo.personium.io/hn-ll-user-app/"
+          ,"BoxName":"io_personium_demo_hn-ll-user-app"
+          }
+         ,{"BarUrl":"__/sampleAppCell1.bar"
+          ,"SchemaUrl":"https://demo.personium.io/sampleAppCell1/"
+          ,"BoxName":"io_personium_demo_sampleAppCell1"
+          }
+         ,{"BarUrl":"__/sampleAppCell3.bar"
+          ,"SchemaUrl":"https://demo.personium.io/sampleAppCell3/"
+          ,"BoxName":"io_personium_demo_sampleAppCell3"
+          }
+         ,{"BarUrl":"__/sampleAppCell5.bar"
+          ,"SchemaUrl":"https://demo.personium.io/sampleAppCell5/"
+          ,"BoxName":"io_personium_demo_sampleAppCell5"
+          }
+         ,{"BarUrl":"__/sampleAppCell6.bar"
+          ,"SchemaUrl":"https://demo.personium.io/sampleAppCell6/"
+          ,"BoxName":"io_personium_demo_sampleAppCell6"
+          }
+        ]
+}

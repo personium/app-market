@@ -1,0 +1,13 @@
+{
+ "Apps":[
+          {
+           "BarUrl":"__/app-myboard.bar"
+          ,"SchemaUrl":"https://demo.personium.io/app-myboard/"
+          ,"BoxName":"io_personium_demo_app-myboard"
+          }
+         ,{"BarUrl":"__/hn-ll-app.bar"
+          ,"SchemaUrl":"https://demo.personium.io/hn-ll-app/"
+          ,"BoxName":"io_personium_demo_hn-ll-app"
+          }
+        ]
+}
