@@ -29,5 +29,9 @@
           ,"SchemaUrl":"https://demo.personium.io/sampleAppCell6/"
           ,"BoxName":"io_personium_demo_sampleAppCell6"
           }
+         ,{"BarUrl":"__/app-minimal.bar"
+          ,"SchemaUrl":"https://demo.personium.io/app-minimal/"
+          ,"BoxName":"io_personium_demo_app-minimal"
+          }
         ]
 }
